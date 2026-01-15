@@ -329,8 +329,6 @@ When `opencode` edits a file, `opencode.nvim` automatically reloads the correspo
 
 When `opencode` requests a permission, `opencode.nvim` waits for idle to ask you to approve or deny it.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/643681ca-75db-4621-8a4a-e744c03c4b4f" />
-
 ### Statusline
 
 <details>
